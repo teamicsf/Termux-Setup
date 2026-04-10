@@ -1,4 +1,4 @@
-#Dev : Somser SA
+Tools : Tarmux Setup
 
 ```bash
 apt update && apt upgrade -y
